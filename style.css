@@ -195,6 +195,22 @@ html, body{
   text-align: center;
   background-color: #D0D1D3;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   margin-left: 4%
+}
+
+.address{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.address-text{
+  font-family: "RalewayRegular";
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.contact{
+  width: 70%;
+  margin: 0 auto;
 }
