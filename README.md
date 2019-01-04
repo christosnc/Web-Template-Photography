@@ -1,5 +1,5 @@
-# cs425_fall18_Assignment2
-2nd Assignment for CS425 - Web Technologies
+# Website template: Photography
+### A simple template for a photographer's website.
+---
 
-Template photographer's page
-https://christosnc.github.io/cs425_fall18_Assignment2/
+Check it out [here](https://christosnc.github.io/cs425_fall18_Assignment2/).
